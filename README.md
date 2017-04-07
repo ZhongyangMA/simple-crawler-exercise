@@ -1,2 +1,2 @@
 # simple-crawler-exercise
-exercise code for learning spider
+Exercise code for learning spider.
